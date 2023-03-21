@@ -1,10 +1,10 @@
-Era uma vez um menino chamado Paul
-Paul salvou o mundo
-O mundo prosperou
-E agora, Paul mudou de ideia
-Ele agora
-Quer
-Destruir o mundo
+Hey there, I'm Mateus
 
-
-by: big fan
+I'm a Newbie Programmer and I'm coursing Computer Science.
+Until now I have some experiences in:
+- React Native: basic knowleged;
+- Java: medium knowledge;
+- C: medium knowledge;
+- Python: low knowledge;
+- Expo: low knowledge;
+- Game Maker Studio 2 Desktop: medium knowledge;
