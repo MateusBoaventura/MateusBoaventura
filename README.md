@@ -2,18 +2,25 @@ Hey there, I'm Mateus
 
 I'm a Newbie Programmer and I'm coursing Computer Science.
 Until now I have some academic experiences in:
-- Java: intermediate knowledge;
-- C: intermediate knowledge;
-- Python: basic knowledge;
-- Html/css: basic knowledge;
-- Javascript: basic knowledge;
+|Language/Tecnology|Knowledge|
+|-|-|
+|Java|Intermediate|
+|C|Intermediate|
+|html|Basic|
+|css|Basic|
+|javascript|Basic|
 
 Personal experiences applied on Apps:
-- React Native: intermediate knowleged;
-- Expo: intermediate knowledge;
+|Tecnology|Knowledge|
+|-|-|
+|React Native|Intermediate|
+|Expo|Intermediate|
+|Git|Basic|
 
 Personal experiences in the following Game Engine:
-- Game Maker Studio 2 Desktop: intermediate knowledge;
+|Game Engine|Knowledge|
+|-|-|
+|Game Maker Studio 2|Intermediate|
 
 Here you can see my game projects: https://wizrio.itch.io
 
